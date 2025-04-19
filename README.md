@@ -21,7 +21,6 @@ SmartCommit is an AI-powered web application that helps developers generate mean
 - Automatically detects unstaged changes in your Git repository
 - Uses GPT to generate clear and concise commit messages
 - Provides a user-friendly interface through Streamlit
-- Allows direct committing of changes with the generated message
 - Supports both file comparison and Git repository modes
 - Compare local and remote repositories
 - Generate detailed commit messages with explanations
